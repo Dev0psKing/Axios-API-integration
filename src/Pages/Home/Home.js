@@ -13,6 +13,7 @@ function Home() {
   const [nextData, setNextData] = useState([])
   const [preData, setPrevData] = useState([])
   const [searchView, setSearchView] = useState(false)
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   const getPokemon_info = async () => {
     const pokemon_data = await axios.get(url)
     setNextData(pokemon_data.data.next)
@@ -51,7 +52,7 @@ function Home() {
 
   useEffect(() => {
     getPokemon_info()
-  }, [url])
+  }, [url, getPokemon_info])
   return (
     <div>
       <div className="container">
