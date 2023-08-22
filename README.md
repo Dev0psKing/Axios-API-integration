@@ -1,5 +1,3 @@
-Here is a draft README for a Pokemon app:
-
 # Axios API 
 
 ## Description
