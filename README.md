@@ -20,10 +20,10 @@ This is an app for tracking and managing your Pokemon collection. Users can view
 - Trade Pokemon between your own collections
 - Release Pokemon from your collection
 
-![Screenshot from 2023-08-22 03-08-26](https://github.com/Dev0psKing/My-Pokemon-App/assets/99263767/2473147b-dde1-4838-9bf1-10695f180cef)
 
-  ![Screenshot from 2023-08-22 03-08-43](https://github.com/Dev0psKing/My-Pokemon-App/assets/99263767/6eb4446f-b2fb-4174-8892-9981ba92b88a)
+![Screenshot from 2023-08-22 03-08-26](https://github.com/Dev0psKing/Axios-API-integreation/assets/99263767/60b413ce-3011-472a-9b30-4e36a6d45bd5)
 
+![Screenshot from 2023-08-22 03-08-43](https://github.com/Dev0psKing/Axios-API-integreation/assets/99263767/3bc206fe-b151-48c1-96b2-d874c1488790)
 
 ## Tech Stack
 
