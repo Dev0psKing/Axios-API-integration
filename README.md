@@ -18,7 +18,7 @@ This is an app for tracking and managing your Pokemon collection. Users can view
 - View evolution info - see which Pokemon a current Pokemon can evolve into
 - Track multiple collections (i.e. separate box collections)
 - Trade Pokemon between your own collections
-- Release Pokemon from your collection
+- Release Pokemon from your collections
 
 
 ![Screenshot from 2023-08-22 03-08-26](https://github.com/Dev0psKing/Axios-API-integreation/assets/99263767/60b413ce-3011-472a-9b30-4e36a6d45bd5)
